@@ -5,6 +5,7 @@ It focused on whether patients turned up for their appointments or not
 
 ## Description
 The data was explored using python libraries with some visualisations and insights generated
+The jupyter notebook shows the detailed code used for the project
 
 ## Dependencies
 Pandas, numpy and matplotlib python libraries were installed and used for the project 
