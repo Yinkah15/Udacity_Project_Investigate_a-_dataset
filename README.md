@@ -1,5 +1,5 @@
-# Udacity_Project_Investigate_a-_dataset
-The above named project worked on investigating a dataset. The dataset consist of information
+# Investigate_a_dataset (Udacity_Project)
+On this project project, I investigated a dataset. The dataset consist of information
 of over 100,000 scheduled medical appointments in Brazil saved as a csv file. 
 It focused on whether patients turned up for their appointments or not
 
